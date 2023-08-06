@@ -16,7 +16,7 @@ VALUES
     ('Lead Developer', 1500000, 2),
     ('Software Developer', 220000, 2),
     ('Financial Analyst', 96000, 4),
-    ('Accountant', 1200000, 3),
+    ('Accountant', 1200000, 3);
 
 
 INSERT INTO employee
@@ -27,7 +27,4 @@ VALUES
     ('Ringo', 'Jones', 3, NULL),
     ('Leo', 'Ronaldo', 4, NULL),
     ('Kevin', 'Timber', 5, 2),
-    ('John', 'Stones', 6, 1),
-    ('Declan', 'Rice', 6, 2),
-    ('Aaron', 'Ramsdale', 4, 1),
-    ('Eddie', 'Saka', 4, 3);
+    ('John', 'Stones', 6, 1);
