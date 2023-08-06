@@ -1,4 +1,4 @@
-const db = require("./Develop/db");
+const db = require("./db");
 const { prompt } = require("inquirer");
 
 function init() {
