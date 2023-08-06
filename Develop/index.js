@@ -78,7 +78,7 @@ function loadMainPrompts() {
       }
     ]).then(res => {
       let choice = res.choice;
-      // Call the appropriate function depending on what the user chose
+      // Call the function that the user picks
       switch (choice) {
         case "VIEW_EMPLOYEES":
           viewEmployees();
