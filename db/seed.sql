@@ -11,12 +11,12 @@ VALUES
 INSERT INTO role
     (title, salary, department_id)
 VALUES
-    ('Marketing Manager', 100000, 1),
-    ('Marketing Specialist', 80000, 1),
-    ('Lead Developer', 150000, 2),
-    ('Software Developer', 120000, 2),
-    ('Financial Analyst', 160000, 4),
-    ('Accountant', 125000, 3),
+    ('Marketing Manager', 250000, 1),
+    ('Marketing Specialist', 100000, 1),
+    ('Lead Developer', 1500000, 2),
+    ('Software Developer', 220000, 2),
+    ('Financial Analyst', 96000, 4),
+    ('Accountant', 1200000, 3),
 
 
 INSERT INTO employee
