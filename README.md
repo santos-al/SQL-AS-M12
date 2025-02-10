@@ -62,8 +62,6 @@ The final feature of this application is updating the database. The following sc
 
 ## Installation
 
-Provide a step-by-step guide on how to install your project. For example:
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/santos-al/SQL-AS-M12.git
